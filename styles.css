@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+
+body {
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-image: url(images/dogpoker.jpg);
+	
+
+}
+body h2 {
+    color: #44D1D8;
+    font-style: normal;
+    font-family: almendra-sc;
+    font-weight: 400;
+    text-align: center;
+    text-shadow: 3px 2px #3F668E;
+    font-size: xx-large;
+    padding-top: 350px;
+}
+
+.handgif{
+
+  position: absolute;
+  left: 700px;
+  top: 400px;
+  width: 762px;
+  height: 564px;
+  z-index: 2;
+}

@@ -1,0 +1,28 @@
+@charset "utf-8";
+body {
+    min-height: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(images/nightstreet.jpg);
+
+
+}
+.ratA {
+  position: absolute;
+  left: 1500px;
+  top: 700px;
+  width: 343px;
+  height: 203px;
+  z-index: 1;
+}h3 {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    color: #5385A4;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+head {
+    color: #D31518;
+}
